@@ -3,7 +3,7 @@
 ## I'm Taha Gandhi
 
 <div>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/taha-gandhi-5525b1160">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/t4gandhi/">
   <img alt="Linkedin Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/gandhi_taha">
