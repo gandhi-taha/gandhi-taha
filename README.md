@@ -12,12 +12,10 @@
   <div>
 <br />
 
-I am an _educator_, _programmer_, _fullstack developer_, _security researcher_ and _Linux Evangelist_.
+I am an _programmer_, _fullstack developer_, _security researcher_ and _Linux Evangelist_.
 
-## Technologies which I teach and use:
+## Technologies which I learn and use:
 
-- HTML
-- CSS
 - Sass
 - JavaScript
 - React
@@ -35,5 +33,5 @@ I am an _educator_, _programmer_, _fullstack developer_, _security researcher_ a
 - JAM Stack
 - MRF Stack
 ---
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
+<small> _I am a lifelong learner and I love learning and inspiring people_. </small>
 
