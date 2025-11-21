@@ -25,19 +25,19 @@
 <br/>
 
 
-### 🚀 About Me
+### * About Me
 
 I am an **AI/ML Expert** and **Generative AI Engineer** with a deep passion for **Systems Programming**. My work bridges the gap between high-level AI architectures and low-level system optimizations.
 
-- 🔭 I’m currently working on **Large Language Models (LLMs)** and **RAG Pipelines**.
-- 🌱 I’m currently learning **Advanced Rust Concurrency** and **Distributed Training**.
-- 👯 I’m looking to collaborate on **Open Source GenAI Projects**.
-- 💬 Ask me about **Transformers, Diffusion Models, Linux Kernel, and Rust**.
+-  I’m currently working on **Large Language Models (LLMs)** and **RAG Pipelines**.
+-  I’m currently learning **Advanced Rust Concurrency** and **Distributed Training**.
+-  I’m looking to collaborate on **Open Source GenAI Projects**.
+-  Ask me about **Transformers, Diffusion Models, Linux Kernel, and Rust**.
 
 ---
 
 
-### 🧠 Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
 | **Generative AI & LLMs** | **Deep Learning** | **Systems & Backend** |
 |:---:|:---:|:---:|
