@@ -25,7 +25,7 @@
 <br/>
 
 
-### * About Me
+### About Me
 
 I am an **AI/ML Expert** and **Generative AI Engineer** with a deep passion for **Systems Programming**. My work bridges the gap between high-level AI architectures and low-level system optimizations.
 
